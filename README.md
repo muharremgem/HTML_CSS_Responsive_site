@@ -2,24 +2,24 @@
 İlk Kişisel Web Çalışmam 
 
 ## Description
-Project aims to create team members within html and css.
+Project aims to create Responsive_site within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![crewin](./images/team_members1.gif)
+[Responsive_site](https://muharremgem.github.io/HTML_CSS_Responsive_site/)| Html Css  |![crewin](responsive_site.gif)
 
 
 ## Problem Statement
-- Your company has recently started a project to promote its employees on its website. So you and your colleagues will promote it on the project.
+- My project to improve html,css,responsive tutorials
 
 ## Project Design
 
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
+- Figma
 
 ## Project Skeleton 
 
 ```
-001-Team members (folder)
+001-Responsive_site (folder)
 |----images
 |----readme.md                 
 |----index.html  
@@ -31,13 +31,13 @@ Project aims to create team members within html and css.
 
 ## Objective
 
-Functionally create a Team members as in the image above
+Functionally create a Responsive_site as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML Forms-Input Types 
+- HTML Navbar
 
-- HTML Form Elements
+- HTML İmages , links
 
 - CSS Colors-Border Properties
 
@@ -58,7 +58,7 @@ Functionally create a Team members as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Team members
+- Step 3: Create Responsive_site
 
 >>Part-1 HTML Structure
 
@@ -67,15 +67,15 @@ Functionally create a Team members as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a form (id="team-members")
+	- Create a form (id="Responsive_site")
 	
 
 >>Part-2 CSS Structure
 	- Set a background and define font-color="white"
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
-	- Define "team-members" color-size-padding etc..
-	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
+	- Define "Responsive_site" color-size-padding etc..
+	- Define labels color-size-padding etc... 
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
 	
@@ -89,7 +89,6 @@ Functionally create a Team members as in the image above
 
 ## Resources
 
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
