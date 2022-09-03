@@ -6,7 +6,7 @@ Project aims to create Responsive_site within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Responsive_site](https://muharremgem.github.io/HTML_CSS_Responsive_site/)| Html Css  |![crewin](responsive_site.gif)
+[Responsive_site](https://muharremgem.github.io/HTML_CSS_Responsive_site/)| Html Css  |![crewin](./images/responsive_site.gif)
 
 
 ## Problem Statement
